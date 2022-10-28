@@ -1,0 +1,355 @@
+.wrapper{
+	margin:auto;
+	width:70%;
+}
+.header{
+	background-color:white;
+}
+.header .header-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:#008374;
+}
+ .header-fc .logo{
+	 height:36px;
+	 width:50%;
+	 text-align:center;
+
+ }
+ .header-fc .navi{
+	 height:36px;
+	 width:50%;
+	 text-align:right;
+ }
+ .welcome{
+	 background-color:white;
+ }
+ .welcome-fc{
+	 display:flex;
+	 background-color:#008374;
+	 justify-content:space-between;
+ }
+ .welcome-fc .welcome-text{
+	 height:368px;
+	 width:48%;
+	 text-align:center;
+ }
+.welcome-fc .welcome-img{
+	height:368px;
+	 width:48%;
+	 text-align:center;
+}
+.symbol{
+	background-color:white;
+}
+.symbol-fc{
+	background-color:#008374;
+	display:flex;
+	justify-content:space-between;
+}
+.symbol-fc .sy-item{
+	height:243px;
+	width:330px;
+	text-align:center;
+}
+.about{
+	background-color:white;
+}
+.about-fc{
+	display:flex;
+	flex-wrap:wrap;
+}
+.about-fc .about-heading{
+	width:100%;
+	height:58px;
+	text-align:center;
+}
+.about-fc .about-para{
+	width:100%;
+	height:24px;
+}
+.about-fc .about-img{
+	height:767px;
+	width:50%;
+	background-color:blue;
+	text-align:center;
+}
+.about-fc .about-text{
+	height:767px;
+	width:50%;
+	background-color:blue;
+	text-align:center;
+}
+.clints{
+	background-color:white;
+}
+.clints-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:#80DCC6;
+}
+.clints-fc .partner{
+	height:41px;
+	width:116px;
+	text-align:center;
+}
+.clints-user-img{
+	background-color:white;
+}
+.clints-user-img-fc{
+	display:flex;
+	background-color:#BB8FCE;
+	justify-content:space-between;
+}
+.clints-user-img-fc .clints-user-pic{
+	height:320px;
+	width:636px;
+	text-align:center;
+}
+.clints-user-img-fc .clints-user-para{
+	height:244px;
+	width:660px;
+	text-align:center;
+	
+}
+.call-to-action{
+	background-color:white;
+}
+.call-to-action-fc{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#2ECC71;
+}
+.call-to-action-fc .call-head{
+	width:100%;
+	text-align:center;
+	height:34px;
+}
+.call-to-action-fc .call-para{
+	width:100%;
+	height:48px;
+	
+}
+.call-to-action-fc .call-button{
+	width:100%;
+	text-align:center;
+}
+.service{
+	background-color:white;
+}
+.service-fc{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#D35400;
+	justify-content:space-between;
+}
+.service-fc .service-head{
+	width:100%;
+	height:58px;
+	text-align:center;
+}
+.service-fc .service-para
+{
+	width:100%;
+	height:24px;
+	text-align:center;
+}
+.var-ser{
+	background-color:white;
+}
+.var-ser-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:#CACFD2;
+}
+.var-ser-fc .servis{
+	height:347px;
+	width:33.33%;
+	text-align:center;
+}
+.testimonial{
+	background-color:white;
+}
+.testimonial-fc{
+	display:flex;
+	flex-wrap:wrap;
+	
+}
+.testimonial-fc .testimonial-head{
+	height:58px;
+	width:100%;
+	text-align:center;
+}
+.testimonial-fc .testimonial-para{
+	width:100%;
+	height:24px;
+}
+.profes{
+	background-color:white;
+}
+.profes-fc{
+	background-color:#9B59B6;
+	display:flex;
+	justify-content:space-between;
+}
+.profes-fc .profession{
+	width:33.33%;
+	height:317px;
+	text-align:center;
+}
+.portfolio{
+	background-color:white;
+}
+.portfolio-fc{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#F9E79F;
+	justify-content:space-between;
+}
+.portfolio-fc .portfolio-head{
+	width:100%;
+	height:58px;
+	text-align:center;
+}
+.portfolio-fc .portfolio-para{
+	width:100%;
+	height:20px;
+	text-align:center;
+}
+.portfolio-fc .portfolio-item{
+	width:33%;
+	height:312px;
+	background-color:#7B241C;
+
+}
+.our-team{
+	background-color:white;
+}
+.our-team-fc{
+	background-color:white;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.our-team-fc .our-team-heading{
+	width:100%;
+	height:58px;
+	text-align:center;
+}
+.our-team-fc .our-team-para{
+	width:100%;
+	height:24px;
+}
+.our-team-fc .teamates{
+	width:20%;
+	height:276px;
+	background-color:#B9770E;
+}
+.pricing{
+	background-color:white;
+}
+.pricing-fc{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#0E6655;
+	justify-content:space-between;
+}
+.pricing-fc .pricing-heading{
+	width:100%;
+	height:58px;
+	text-align:center;
+}
+.pricing-fc .pricing-para{
+	width:100%;
+	height:24px;
+}
+.pricing-fc .price-plan{
+	width:32%;
+	height:660px;
+	background-color:#FAD7A0;
+	text-align:center;
+}
+.faq{
+	background-color:white;
+}
+.faq-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:#0B5345;
+}
+.faq-fc .faq-head{
+	width:48%;
+	height:180px;
+	text-align:center;
+}
+.faq-fc .faq-para{
+	width:48%;
+	height:400px;
+}
+.recent-blog{
+	background-color:white;
+}
+.recent-blog-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:yellow;
+}
+.recent-blog-fc .blog-pic{
+	width:30%;
+	height:442px;
+	text-align:center;
+}
+.contact{
+	background-color:white;
+}
+.contact-fc{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.contact-fc .contact-head{
+	width:100%;
+	height:54px;
+	text-align:center;
+
+}
+.contact-fc .contact-para{
+	width:100%;
+	height:24px;
+}
+.contact-fc .contact-detail{
+	width:40%;
+	height:460px;
+	background-color:#DC7633;
+}
+.contact-fc .contact-detail-personal{
+	width:50%;
+	height:460px;
+	background-color:#DC7633;
+
+	
+}
+.footer{
+	background-color:white;
+}
+.footer-fc{
+	display:flex;
+	background-color:#008374;
+	justify-content:space-between;
+}
+.footer-fc .footer-item{
+	width:20%;
+	height:229px
+}
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
